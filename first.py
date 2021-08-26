@@ -1,1 +1,2 @@
-teste Gabriel
+name = 'Gabriel'
+idade = 24
