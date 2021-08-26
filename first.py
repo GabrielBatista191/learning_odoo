@@ -1,2 +1,3 @@
-name = 'Gabriel'
-idade = 24
+class Developer:
+    name = 'Gabriel'
+    idade = 24
